@@ -10,8 +10,8 @@ Features:
 iTunes Search app allows to integrate your iTunes Search network requests into an actual app.
 
 - Decoding JSON into native Swift types and custom model object;
-- writing a completion handler to handle asynchronous code;
-- receiving network request, decoding it and displaying it in the app.
+- Writing a completion handler to handle asynchronous code;
+- Receiving network request, decoding it and displaying it in the app.
 
 Change log:
 
