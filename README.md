@@ -18,3 +18,5 @@ Change log:
 04.15.19
 
 Initial release.
+
+![Screen Shot](https://github.com/pavelseleznev/iTunesSearch/blob/master/Screen%20Shot.png)
